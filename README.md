@@ -47,6 +47,12 @@ Leveraging emerging technologies to solve **complex business challenges**. Let's
 
 ---
 
+## 🌍 **Visit My Website**:
+For more details on my work, services, and to get in touch, visit my personal website:  
+[**rohitnishad.com**](https://rohitnishad.com) 🌐
+
+---
+
 ## 🧑‍💻 **Projects I've Worked On**:
 
 - **AI Chatbot & Phone Calls** 🤖📞  
