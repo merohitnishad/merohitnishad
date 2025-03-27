@@ -79,6 +79,9 @@ For more details on my work, services, and to get in touch, visit my personal we
 - **Blockchain Games, NFT Staking, Rewards** 🎮💎  
   Developed games on blockchain, integrated NFT staking, and built reward systems.
 
+- **Bitcoin Miner Implementation on Python** 🎮💎  
+  A real bitcoin miner pool and miner code with realtime block mine and telegram updates
+
 ---
 
 ## ⚡ **Fun Fact**:  
